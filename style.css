@@ -1,0 +1,36 @@
+
+ .copy_right_footer{
+  bottom: 0;
+  position: fixed;
+  background-color: rgb(14, 152, 198);
+  width: 100%;
+  line-height: 3;
+  text-align: center;
+  color: white;
+  font-size: 25px;
+ }
+
+ #Gl{
+    font-size: 25px;
+    color: blue;
+ }
+
+ #Mn{
+    font-size: 25px;
+    color: blue;
+ }
+ .Div1{
+    background-color: gray;
+    padding: 30px;
+    border-radius: 20px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 18px lightblue;
+ }
+ .div2{
+text-align: center;
+color: white;
+ }
+
+ h5{
+    padding: 13px;
+ }
